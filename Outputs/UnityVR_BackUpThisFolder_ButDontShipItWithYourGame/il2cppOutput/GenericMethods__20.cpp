@@ -42151,7 +42151,7 @@ IL_0056:
 		return;
 	}
 }
-// Method Definition Index: 82411
+// Method Definition Index: 82440
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* AssistiveSupport_GetService_TisRuntimeObject_m6794BFDFCCF9DE3D55ACBEE780E5DAA1B51DC524_gshared (const RuntimeMethod* method) 
 {
 	if (!il2cpp_rgctx_is_initialized(method))
@@ -42196,7 +42196,7 @@ IL_0027:
 		return L_5;
 	}
 }
-// Method Definition Index: 82411
+// Method Definition Index: 82440
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void AssistiveSupport_GetService_TisIl2CppFullySharedGenericAny_m0DB9754A26372BCA8989174670841E7D50647E4F_gshared (Il2CppFullySharedGenericAny* il2cppRetVal, const RuntimeMethod* method) 
 {
 	if (!il2cpp_rgctx_is_initialized(method))
